@@ -1,5 +1,5 @@
 # Python API Challenge
 
-## WeathePy
+## WeatherPy
 
 ## VacationPy
